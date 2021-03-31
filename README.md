@@ -5,3 +5,5 @@ Bursa Uludağ Üniversitesi'nde verilen "Genomik Hesaplama" dersinin proje ödev
 Danışman: Doç.Dr. Gıyasettin Özcan
 
 Öğrenciler: Ozan Kılınçer, Aleyna Er
+
+Kullanılan veri seti: CosmicMutantExportCensus.tsv / https://cancer.sanger.ac.uk/cosmic/download
